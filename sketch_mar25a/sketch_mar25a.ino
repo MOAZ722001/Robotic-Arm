@@ -12,10 +12,10 @@ int pos3;                     //The position of Elbow
 int pos4;                     //The position of Shoulder
                               //Data from camera
 String material;
-String plastic=plastic;
-String metal=metal;
-String glass=glass;
-String paper=paper;
+String plastic="plastic";
+String metal="metal";
+String glass="glass";
+String paper="paper";
 
 void setup() {
     Serial.begin(9600);
